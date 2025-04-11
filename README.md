@@ -1,1 +1,1 @@
-# Side fx maya plugin 2
+# SideFX Maya Plugin
